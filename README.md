@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="[resources/grid-snake.svg](https://github.com/alejo-20/alejo-20/blob/main/Snake.svg)"
+  <img  src="Snake.svg"
        alt="snake"/></a>
 </div>
 
@@ -35,6 +35,7 @@
 - 🎯 Goal: Land a **Junior Developer / Frontend Developer / Software Trainee** role
 
 - 📫 Feel free to reach me out **alejocasquete619@gmail.com**
+- 🚀 Explore my work and projects on my portfolio: [🌐AlejandroSite](https://cv-alejandro-casquete.netlify.app)
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [_alejo_20_](https://discordapp.com/users/_alejo_20_) my username!
 <!--Intro end-->
