@@ -6,12 +6,13 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Alejandro Casquete</h1></summary>
   </ul>
+  <h3 align="center">Software Engineering Student | Junior Developer | IT Support Specialist</h3>
 </div>
 
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -25,17 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🎓 Software Engineering student (7th semester)
+- 💼 IT Support Apprentice with experience in technical troubleshooting and system assistance
+- 🌐 Web Developer focused on **HTML, CSS, JavaScript, React**
+- ☕ Backend learner with **Java, Node.js & Databases**
+- 🎮 Game development enthusiast using **Unity (2D games)/Luau**
+- 🎯 Goal: Land a **Junior Developer / Frontend Developer / Software Trainee** role
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **alejocasquete619@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [_alejo_20_](https://discordapp.com/users/) my username!
 <!--Intro end-->
